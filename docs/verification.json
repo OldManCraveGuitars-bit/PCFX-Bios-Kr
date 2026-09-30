@@ -3,10 +3,10 @@
   "status": "stable",
   "rom_size": 1048576,
   "original_sha256": "4b44ccf5d84cc83daa2e6a2bee00fdafa14eb58bdf5859e96d8861a891675417",
-  "patched_sha256": "d77362761c22ebb62ab3d8ba8d684a9469b863ba8d1ef9a8658b26d8ce41063b",
+  "patched_sha256": "b6f584497f3aeb19ef2751eb4aeb1b6661f67742be9f62265f0f333759ec4c5f",
   "original_crc32": "76FFB97A",
-  "patched_crc32": "5D3AA3C9",
-  "ips_sha256": "04c949c0793cb4893c89bed53e0c8d455deddd532d187328eda58a5f9fc98402",
+  "patched_crc32": "9E1BE838",
+  "ips_sha256": "2b99ada6f886e4e33e599100c3929ecad58865f44e881d5513bb95bb70a462c5",
   "native_fonts": [
     {
       "mode": 0,

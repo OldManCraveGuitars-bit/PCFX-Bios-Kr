@@ -83,14 +83,14 @@ python patch/apply_patch.py 원본/pcfx.rom 결과/pcfx_kr.rom
 | 구분 | 크기 | CRC32 |
 | --- | ---: | --- |
 | 지원 원본 BIOS | 1,048,576 bytes | `76FFB97A` |
-| 1.0 패치 적용 결과 | 1,048,576 bytes | `5D3AA3C9` |
+| 1.0 패치 적용 결과 | 1,048,576 bytes | `9E1BE838` |
 
 ```text
 원본 SHA-256
 4b44ccf5d84cc83daa2e6a2bee00fdafa14eb58bdf5859e96d8861a891675417
 
 1.0 적용 결과 SHA-256
-d77362761c22ebb62ab3d8ba8d684a9469b863ba8d1ef9a8658b26d8ce41063b
+b6f584497f3aeb19ef2751eb4aeb1b6661f67742be9f62265f0f333759ec4c5f
 ```
 
 한글화로 내용이 바뀌므로 ROM 전체 체크섬은 달라집니다. 원본 글꼴 데이터와 ROM 크기는 보존됩니다.

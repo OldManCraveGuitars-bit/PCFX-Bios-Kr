@@ -23,8 +23,8 @@ python patch/apply_patch.py 원본/pcfx.rom 결과/pcfx_kr.rom
 
 [결과 확인값]
 크기: 1,048,576 바이트
-SHA-256: d77362761c22ebb62ab3d8ba8d684a9469b863ba8d1ef9a8658b26d8ce41063b
-CRC32: 5D3AA3C9
+SHA-256: b6f584497f3aeb19ef2751eb4aeb1b6661f67742be9f62265f0f333759ec4c5f
+CRC32: 9E1BE838
 
 [원본 일본어 글꼴 보존]
 원본 일본어·영문 글꼴 6종 370,560바이트는 원본과 동일합니다.
