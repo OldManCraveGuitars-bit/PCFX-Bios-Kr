@@ -1,0 +1,7 @@
+*.rom
+*.bin
+*.cue
+*.srm
+*.state
+__pycache__/
+release/

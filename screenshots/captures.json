@@ -1,0 +1,80 @@
+[
+  {
+    "file": "01-main-menu.png",
+    "label": "메인 메뉴",
+    "original_size": [
+      256,
+      240
+    ],
+    "display_size": [
+      768,
+      576
+    ],
+    "source_sha256": "dc7faed5950a31eab780907cbdfa94f1af01352305290077add1bc906e96f18e"
+  },
+  {
+    "file": "02-cd-player.png",
+    "label": "CD 재생기",
+    "original_size": [
+      1024,
+      240
+    ],
+    "display_size": [
+      768,
+      576
+    ],
+    "source_sha256": "e70c9f30c04d5599922496d20078ea8be1bca017e3762648b5675fe247fbba7a"
+  },
+  {
+    "file": "03-file-delete.png",
+    "label": "파일 삭제 확인",
+    "original_size": [
+      1024,
+      240
+    ],
+    "display_size": [
+      768,
+      576
+    ],
+    "source_sha256": "0756f28c38587e48d324058ab3d103219258eb0367b1c78bc99f87b2875978f2"
+  },
+  {
+    "file": "04-file-initialize.png",
+    "label": "메모리 초기화 확인",
+    "original_size": [
+      1024,
+      240
+    ],
+    "display_size": [
+      768,
+      576
+    ],
+    "source_sha256": "6b96166c7b5d637f76bdc1fd491a6ae48cce58beb86e5d291fcde59e6f2d8904"
+  },
+  {
+    "file": "05-photo-player.png",
+    "label": "포토 CD 재생기",
+    "original_size": [
+      256,
+      240
+    ],
+    "display_size": [
+      768,
+      576
+    ],
+    "source_sha256": "cf90a290ee8bba4163c9258922ae7c49d8afacd7ca495f3592259420297721a0"
+  },
+  {
+    "file": "06-photo-disc-message.png",
+    "label": "포토 CD 디스크 교체 안내",
+    "original_size": [
+      256,
+      240
+    ],
+    "display_size": [
+      768,
+      576
+    ],
+    "source_sha256": "a2ebe4b06ae359257615143c2b80c51f30c641a589084e572cbac0725f7e54cb"
+  }
+]
