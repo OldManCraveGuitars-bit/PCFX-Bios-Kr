@@ -3,7 +3,7 @@
 ![Version](https://img.shields.io/badge/version-1.0-blue)
 ![Status](https://img.shields.io/badge/status-stable-green)
 
-**PC-FX BIOS 한글 패치 1.0 정식판입니다.**
+**PC-FX BIOS 비공식 한글 패치 1.0 정식판입니다.**
 
 PC-FX BIOS의 일본어 메뉴와 안내를 한글로 옮긴 비공식 한국어 패치입니다.
 메인 메뉴, CD/CD-G 재생기, 파일 관리, 포토 CD 재생기를 대상으로 하며,
